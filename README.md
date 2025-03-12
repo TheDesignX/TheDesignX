@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔧 I specialize in **SolidWorks, AutoCAD, Fusion 360, and ANSYS**  
-- 🤖 Currently working on a **5-DOF robotic arm & automotive heat sink**  
+- 🤖 Currently working on a **5-DOF Robotic Arm **  
 - 🚀 Exploring **Generative Design & Robotics**  
 - 🎯 Passionate about **Weapon Designing and Defense Aircraft Design**  
 
