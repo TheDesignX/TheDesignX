@@ -29,7 +29,7 @@
 
 ### 🌐 Connect with Me
 - 💬 Ask me about **Fusion 360, AutoCAD, ANSYS, and SolidWorks**  
-- 📫 Reach me at: **gokulkrishnaak1262@gmail.com**  
+- 📫 Reach me at: **gokulkrishnaak1262@gmail.com, thedesignxofficial@gmail.com**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gokulkrishna-a-k-8a46a8215/)  
 - 📝 [Portfolio Website](https://drive.google.com/file/d/1amLitayhLMKVQgFSt0kjk8NkgD7yCgf3/view?usp=drive_link) 
 
